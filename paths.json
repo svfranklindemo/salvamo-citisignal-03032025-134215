@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/salvamo/salvamo-commerce-marketing-brunch/:/",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/configuration:/.helix/config.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/metadata:/metadata.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/configs:/configs.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/configs-stage:/configs-stage.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/configs-dev:/configs-dev.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/redirects:/redirects.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/placeholders:/placeholders.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/products/recommended-products:/products/recommended-products.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/salvamo/salvamo-commerce-marketing-brunch/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/salvamo/salvamo-commerce-marketing-brunch",
       "/content/dam/citisignal/images/products/"
     ]
 }
